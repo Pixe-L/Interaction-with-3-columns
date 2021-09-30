@@ -1,6 +1,6 @@
 # Vista de 3 columnas tipo carta, con interacción:arrow_right:[:alien:][git]
 
-[<div align="center"><img src="./images/PIXEL.png" width="80px"></div>][yt]
+<div align="center"><img src="./images/pixel.png" width="80px"></div>
 
 ### Made with 🔨
 
